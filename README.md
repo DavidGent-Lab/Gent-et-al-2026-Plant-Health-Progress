@@ -9,15 +9,15 @@ Corresponding author: David H. Gent dave.gent@usda.gov
 
 # Files
 
-cone_quality.csv 
+**cone_quality.csv** 
 
 --This is the data associated with hop chemistry and other quality measurements. Period sympbols indicate data was missing or not relevant. This convention is used in all of the .csv files.
 
-cone_disease.csv
+**cone_disease.csv**
 
 --This is the data associated with the incidence of cones with powdery mildew. 
 
-leaf_disease.csv
+**leaf_disease.csv**
 
 --This is the data associated with the incidence of leaves with powdery mildew, including relative area under the disease progress curve (RAUDPC).
 
